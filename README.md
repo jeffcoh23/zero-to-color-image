@@ -1,7 +1,7 @@
 ### ZeroToColorImage
 
 ##### Description
-React component that displays an image going from 100% grayscale to 0% grayscale.  Essentially, this effect makes an image look like it is going from black-and-white to color.
+React component that takes an image and makes it go from black-and-white to color.
 
  - `npm install --save zero-to-color-image`
 
